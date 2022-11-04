@@ -37,7 +37,7 @@ Code: https://github.com/varun21vaidya/BackPackersHub
 <hr />
 
 
-# FreeCodeCamp Websites:
+# FreeCodeCamp Projects:
 
 - ## StyleBit- SmartWatch Landing Page
 
