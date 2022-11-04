@@ -75,6 +75,9 @@ https://github.com/varun21vaidya/invisible_cloak
 - ### Human Detection and Counting 
 https://github.com/varun21vaidya/human-detection-and-counting
 
+- ### Website Blocker
+https://github.com/varun21vaidya/Website-Blocker
 
-
+- ### Ultimate Desktop Assistant
+https://github.com/varun21vaidya/Ultimate-Desktop-Assistant
 
