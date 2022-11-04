@@ -67,7 +67,7 @@ Technology (IJIRSET) regarding Design and Development of Patrolling Robot.
 
 Documentation: https://github.com/varun21vaidya/Human-Detecting-Patrolling-Robot
 
-Certificate: https://drive.google.com/drive/u/0/folders/1QXPQ_rU1vWeEnh_B8WqfpQiS95Yne7ie
+Certificate: https://drive.google.com/file/d/1xdNrsFPDE10xR6X2Fa1D8JrqIsow2I-6/view?usp=sharing
 
 - ### Invisible Clock:
 https://github.com/varun21vaidya/invisible_cloak
