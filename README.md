@@ -39,7 +39,7 @@ Code: https://github.com/varun21vaidya/BackPackersHub
 
 # FreeCodeCamp Websites:
 
-## StyleBit- Product Landing Page
+## StyleBit- SmartWatch Landing Page
 
 Live Site: https://stylebit.netlify.app
 
