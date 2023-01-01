@@ -1,6 +1,17 @@
 # Projects
 This is the collection of projects I have made
 
+- # ShareNow - Quickly Share Any File
+
+https://user-images.githubusercontent.com/65745841/210171803-dd48f9b2-6237-4855-a349-9a83feee64e7.mp4
+
+Live Site: https://share-now-file-sharing-app.vercel.app/
+
+FrontEnd: https://github.com/varun21vaidya/ShareNow
+
+BackEnd: https://github.com/varun21vaidya/ShareNow-Backend
+
+
 - # DOIT- ToDo List APP
 https://user-images.githubusercontent.com/65745841/196672167-90ad7c35-a66c-44ab-8984-6cf11bfc220e.mp4
 
