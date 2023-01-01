@@ -1,5 +1,5 @@
 # Projects
-This is the collection of projects I have made
+This is the collection of projects along with Demo, Live Sites, and Codes
 
 - # ShareNow - Quickly Share Any File
 
