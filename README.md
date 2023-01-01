@@ -3,7 +3,8 @@ This is the collection of projects I have made
 
 - # ShareNow - Quickly Share Any File
 
-https://user-images.githubusercontent.com/65745841/210171803-dd48f9b2-6237-4855-a349-9a83feee64e7.mp4
+## Demo:
+https://user-images.githubusercontent.com/65745841/210172166-e2cbf234-9a07-45c7-a1b4-620327dcd92d.mp4
 
 Live Site: https://share-now-file-sharing-app.vercel.app/
 
@@ -13,6 +14,8 @@ BackEnd: https://github.com/varun21vaidya/ShareNow-Backend
 
 
 - # DOIT- ToDo List APP
+
+## Demo:
 https://user-images.githubusercontent.com/65745841/196672167-90ad7c35-a66c-44ab-8984-6cf11bfc220e.mp4
 
 Live Site: https://doit-todo-app.netlify.app/
@@ -23,6 +26,7 @@ Code: https://github.com/varun21vaidya/DOIT-Angular
 
 - # Don't Forget - Notes Taking Application
 
+## Demo:
 https://user-images.githubusercontent.com/65745841/196672043-e0de90a9-7640-4eed-97ae-0ef6ece6f0d6.mp4
 
 Code: https://github.com/varun21vaidya/Dont-Forget-Angular
@@ -31,6 +35,7 @@ Code: https://github.com/varun21vaidya/Dont-Forget-Angular
 
 - # Work Organizer - MEAN Stack Application
 
+## Demo:
 https://user-images.githubusercontent.com/65745841/196682811-b30405e0-66b2-4a27-ac67-14beb24b90f5.mp4
 
 Code: https://github.com/varun21vaidya/Work-Organizer-MEAN-Stack
@@ -39,6 +44,7 @@ Code: https://github.com/varun21vaidya/Work-Organizer-MEAN-Stack
 
 - # BackPackersHub: Tours and Travels Website
 
+## Demo:
 https://user-images.githubusercontent.com/65745841/175563023-158dc37c-8b80-4cd5-82fe-cc9ffe3737f3.mp4
 
 Live Site: https://backpackershub.netlify.app/
