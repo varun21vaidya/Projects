@@ -12,16 +12,6 @@ FrontEnd: https://github.com/varun21vaidya/ShareNow
 
 BackEnd: https://github.com/varun21vaidya/ShareNow-Backend
 
-
-- # DOIT- ToDo List APP
-
-## Demo:
-https://user-images.githubusercontent.com/65745841/196672167-90ad7c35-a66c-44ab-8984-6cf11bfc220e.mp4
-
-Live Site: https://doit-todo-app.netlify.app/
-
-Code: https://github.com/varun21vaidya/DOIT-Angular
-
 <hr />
 
 - # Don't Forget - Notes Taking Application
@@ -39,6 +29,18 @@ Code: https://github.com/varun21vaidya/Dont-Forget-Angular
 https://user-images.githubusercontent.com/65745841/196682811-b30405e0-66b2-4a27-ac67-14beb24b90f5.mp4
 
 Code: https://github.com/varun21vaidya/Work-Organizer-MEAN-Stack
+
+<hr />
+
+- # DOIT- ToDo List APP
+
+## Demo:
+https://user-images.githubusercontent.com/65745841/196672167-90ad7c35-a66c-44ab-8984-6cf11bfc220e.mp4
+
+Live Site: https://doit-todo-app.netlify.app/
+
+Code: https://github.com/varun21vaidya/DOIT-Angular
+
 
 <hr />
 
