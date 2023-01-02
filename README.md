@@ -32,7 +32,7 @@ Code: https://github.com/varun21vaidya/Work-Organizer-MEAN-Stack
 
 <hr />
 
-- # DOIT- ToDo List APP
+- # DOIT- Task Managing App
 
 ## Demo:
 https://user-images.githubusercontent.com/65745841/196672167-90ad7c35-a66c-44ab-8984-6cf11bfc220e.mp4
