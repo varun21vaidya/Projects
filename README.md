@@ -1,10 +1,32 @@
 # Projects
 This is the collection of projects along with Demo, Live Sites, and Codes
 
-- # ShareNow - Quickly Share Any File
+- # Portfolio
 
 ## Demo:
 
+https://user-images.githubusercontent.com/65745841/227736149-44a8e1c9-2a9d-41f7-a691-81e407ddaaf2.mp4
+
+Live Site: https://varun-portfolio.vercel.app/
+
+Code: https://github.com/varun21vaidya/Portfolio
+
+
+- # Bharat Cafe - Full Stack Food Restaurant Site
+
+
+## Demo:
+
+https://user-images.githubusercontent.com/65745841/227736290-06592cb3-1ccd-4b94-a1d3-32d004917b6d.mp4
+
+Live Site: https://bharat-cafe-varun21vaidya.vercel.app/
+
+Code: https://github.com/varun21vaidya/Bharat-Cafe
+
+
+- # ShareNow - Quickly Share Any File
+
+## Demo:
 
 https://user-images.githubusercontent.com/65745841/211022475-ca55271b-d90f-4421-856b-cb519dce9294.mp4
 
