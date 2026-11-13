@@ -2,6 +2,19 @@
 This is the collection of projects along with Demo, Live Sites, and Codes
 
 
+## Featured projects
+
+| Priority | Project | What it demonstrates | Links |
+| --- | --- | --- | --- |
+| 1 | Collabrium | Real-time collaborative editing with Yjs and WebSockets, MongoDB snapshots, document history, Docker, and GitHub Actions CI. | [Source code](https://github.com/varun21vaidya/Collabrium) |
+| 2 | AgentGuard | Visual AI workflow builder with Claude and Gemini streaming, conditional execution, cost tracking, human approvals, and an audit trail. | [Source code](https://github.com/varun21vaidya/AgentGuard) |
+| 3 | CraftMe | Online storefront backed by Supabase. The source repository is private. | [Storefront](https://craftme-rouge.vercel.app) |
+| 4 | Instabid | Web application built with Astro, Cloudflare, D1, and Drizzle. | [Private repository](https://github.com/varun21vaidya/instabid) |
+| 5 | Interview Tracker | Mobile app built with Expo, React Native, and SQLite, with local storage and data export and restore. | [Private repository](https://github.com/varun21vaidya/Interview-tracker) |
+| 6 | ShareNow | Full stack app for uploading files and sharing them via a download link. | [Frontend](https://github.com/varun21vaidya/ShareNow) · [Backend](https://github.com/varun21vaidya/ShareNow-Backend) |
+
+## More projects
+
 - # Bharat Cafe - Full Stack Food Restaurant Site
 
 
